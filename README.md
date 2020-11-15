@@ -94,8 +94,8 @@
    
   ## 4.实验截图
   
-  https://github.com/baishaowei-eng/school/blob/main/img/imgs.png
-  
+https://github.com/1141565458sws/java-11.09/blob/main/swssss/sws.png
+
   ## 5.实验感想
 
   1. 通过这个实验学习到了如何设计管理接口。
