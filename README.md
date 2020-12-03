@@ -63,6 +63,7 @@ Teacher 接口中的方法
      }
 		
 	}
+	
   ```
 ### 检查博士生缴费的钱数
   ```
@@ -94,7 +95,7 @@ Teacher 接口中的方法
       System.out.println("性别："+sex);
       System.out.println("年龄："+age);
  }
-       ```
+ ```
        
  ## 4.实验截图
   
