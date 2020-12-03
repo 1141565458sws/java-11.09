@@ -83,6 +83,7 @@ Teacher 接口中的方法
   
   ```
 ### 调用博士类并且通过Scanner类进行输出姓名，性别，年龄，和缴费中的方法。
+
       ```
         Scanner sc=new Scanner(System.in);
       System.out.println("请输入姓名");
@@ -94,8 +95,8 @@ Teacher 接口中的方法
       System.out.println("姓名："+name);
       System.out.println("性别："+sex);
       System.out.println("年龄："+age);
- }
- ```
+ 
+  ```
        
  ## 4.实验截图
   
